@@ -39,7 +39,7 @@ pic18f4520-tinyml-digit/
                               │                RC6 25 ├─────> USB-to-TTL RXD
                               +-----------------------+
 ```
-
+![alt text](image.png)
 ### 接線對照表
 
 | 外部裝置 | 裝置腳位 | PIC18F4520 腳位 | 說明 |
